@@ -1,1 +1,1 @@
-# SLICE
+# Repository for SLICE Projects
